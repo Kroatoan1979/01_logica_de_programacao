@@ -1,5 +1,6 @@
 let nome = "Kroatoan"
 let xp = 1
+let nivel = ""
 
 if (xp <= 1000){
     nivel = "Ferro"
@@ -18,6 +19,5 @@ if (xp <= 1000){
 }else if (xp >=10001){
     nivel = "Radiante"
 }
-
 
 console.log("O Herói de nome " + nome + " está no nível de " + nivel)
