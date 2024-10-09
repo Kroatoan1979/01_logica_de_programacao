@@ -30,7 +30,7 @@ function calculadora(vitorias, derrotas){
     return saldo
 }
 
-let resultado = calculadora(72, 45)
+let resultado = calculadora(68, 45)
 
 if (resultado < 10){
     nivel = "Ferro"
