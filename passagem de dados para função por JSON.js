@@ -26,6 +26,6 @@ function fatura(dadosFatura){
         console.log(`Comprou os seguintes itens: ${nomeFruta} ao valor de ${valorFruta} €`)
         total += valorFruta
     }
-    console.log(`-----------------------------`)
+    console.log(`---------------------------------------`)
     console.log(`O total a pagar é de ${total.toFixed(2)} €`)
 }
