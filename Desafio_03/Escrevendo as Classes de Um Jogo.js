@@ -40,3 +40,5 @@ heroi = new criarHeroi("Gandalf", 100, "ninja")
 heroi.atacar()
 heroi = new criarHeroi("Gandalf", 100, "Super Guerreiro")
 heroi.atacar()
+
+//Ivan Almeida
